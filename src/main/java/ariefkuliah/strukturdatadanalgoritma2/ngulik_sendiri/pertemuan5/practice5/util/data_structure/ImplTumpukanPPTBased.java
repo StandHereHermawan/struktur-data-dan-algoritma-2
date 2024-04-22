@@ -1,4 +1,4 @@
-package ariefkuliah.strukturdatadanalgoritma2.pertemuan5.stack.practice5.util.data_structure;
+package ariefkuliah.strukturdatadanalgoritma2.ngulik_sendiri.pertemuan5.practice5.util.data_structure;
 
 import java.util.EmptyStackException;
 

@@ -1,7 +1,7 @@
-package ariefkuliah.strukturdatadanalgoritma2.pertemuan5.stack.practice5;
+package ariefkuliah.strukturdatadanalgoritma2.ngulik_sendiri.pertemuan5.practice5;
 
-import ariefkuliah.strukturdatadanalgoritma2.pertemuan5.stack.practice5.util.console.Show;
-import ariefkuliah.strukturdatadanalgoritma2.pertemuan5.stack.practice5.util.data_structure.ImplTumpukanPPTBased;
+import ariefkuliah.strukturdatadanalgoritma2.ngulik_sendiri.pertemuan5.practice5.util.console.Show;
+import ariefkuliah.strukturdatadanalgoritma2.ngulik_sendiri.pertemuan5.practice5.util.data_structure.ImplTumpukanPPTBased;
 
 public class Task11 {
     public static void main(String[] args) {
