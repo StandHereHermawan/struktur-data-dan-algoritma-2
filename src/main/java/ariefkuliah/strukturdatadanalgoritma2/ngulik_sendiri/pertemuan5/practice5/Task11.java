@@ -3,7 +3,7 @@ package ariefkuliah.strukturdatadanalgoritma2.pertemuan5.stack.practice5;
 import ariefkuliah.strukturdatadanalgoritma2.pertemuan5.stack.practice5.util.console.Show;
 import ariefkuliah.strukturdatadanalgoritma2.pertemuan5.stack.practice5.util.data_structure.ImplTumpukanPPTBased;
 
-public class Task1 {
+public class Task11 {
     public static void main(String[] args) {
         ImplTumpukanPPTBased operasi = ImplTumpukanPPTBased
                 .builder()
